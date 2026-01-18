@@ -26,6 +26,14 @@ npm install tailwindcss @tailwindcss/vite
 
 ```
 
+```bash
+npm install axios
+```
+
+```bash
+npm install vue-router@4 pinia
+```
+
 ---
 
 ## 3. Configure the Vite Plugin
