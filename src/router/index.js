@@ -7,10 +7,10 @@ const routes = [
     name: 'Search',
     component: SearchView
   },
-  {
-    path: '/',
-    redirect: '/search' // Default to search page
-  }
+  // {
+  //   path: '/',
+  //   redirect: '/search' // Default to search page
+  // }
 ]
 
 const router = createRouter({
